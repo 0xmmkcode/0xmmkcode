@@ -15,8 +15,8 @@ I love crafting smooth digital experiences — check out my featured projects in
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mouad-msalek/)
-- 📬 Email: mmkode.dev@gmail.com
-- 💻 Portfolio: [mmkode.dev](https://mmkode.dev)
+- 📬 Email: mmkcode.business@gmail.com
+- 💻 Portfolio: [mmkcode.xyz](https://mmkcode.xyz)
 
 ---
 
