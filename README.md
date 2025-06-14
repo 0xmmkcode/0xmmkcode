@@ -11,7 +11,7 @@ I specialize in building **full-stack applications** using modern technologies a
 - 📊 Clean UI/UX and developer-focused tools
 
 ## 🚀 Projects
-I love crafting smooth digital experiences — check out my featured projects in my pinned repos or at [mmkode.dev](https://mmkode.dev) (coming soon 👀)
+I love crafting smooth digital experiences — check out my featured projects in my pinned repos or at [mmkcode.xyz](https://mmkcode.xyz) 
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mouad-msalek/)
