@@ -1,4 +1,4 @@
-# Hi, I'm Mouad Msalek – aka MMKCode 👋
+# Hi, MMKCode 👋
 
 I'm a passionate **Software Engineer** from Casablanca, Morocco 🇲🇦.  
 I specialize in building **full-stack applications** using modern technologies across **web**, **mobile**, and **desktop** platforms.
@@ -14,7 +14,6 @@ I specialize in building **full-stack applications** using modern technologies a
 I love crafting smooth digital experiences — check out my featured projects in my pinned repos or at [mmkcode.xyz](https://mmkcode.xyz) 
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mouad-msalek/)
 - 📬 Email: mmkcode.business@gmail.com
 - 💻 Portfolio: [mmkcode.xyz](https://mmkcode.xyz)
 
